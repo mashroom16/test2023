@@ -3,7 +3,6 @@ Hello Git!
 New code add
 
 
-3rd row
 
 
 4th row
